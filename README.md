@@ -1,2 +1,5 @@
 # python-toolkit
-save some python toolkit
+主要目的是个人学习以及一些工具代码的存储
+# 网络工具
+# 脚本工具
+# 文本工具
